@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Grayscale - Free One Page Theme for Bootstrap 3</title>
+    <title>Nick's Narrative</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -63,8 +62,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">Grayscale</h1>
-                        <p class="intro-text">A free, premium quality, responsive one page Bootstrap theme created by Start Bootstrap.</p>
+                        <h1 class="brand-heading">stories</h1>
+                        <p class="intro-text">A recording of my life.</p>
                         <div class="page-scroll">
                             <a href="#about" class="btn btn-circle">
                                 <i class="fa fa-angle-double-down animated"></i>
@@ -79,10 +78,8 @@
     <section id="about" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>About Grayscale</h2>
-                <p>Grayscale is a premium quality, free Bootstrap 3 theme created by Start Bootstrap. It can be yours right now, all you need to do is download the template on the preview page. You can use this template for any purpose, personal or commercial.</p>
-                <p>This striking, black and white theme features stock photographs by <a href="http://gratisography.com/">Gratisography</a> along with a custom Google Map skin courtesy of <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p>
-                <p>With this template, just the slightest splash of color can make a huge impact on the overall presentation and design.</p>
+                <h2>Nick Liu</h2>
+                <p>I am a senior at the University of Pennsylvania. I've been having trouble remembering my days recently, so I decided to create a place to record my thoughts, experiences, and stories.</p>
             </div>
         </div>
     </section>
