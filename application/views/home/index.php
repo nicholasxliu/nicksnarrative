@@ -62,7 +62,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">stories</h1>
+                        <h1 class="brand-heading">Stories</h1>
                         <p class="intro-text">A recording of my life.</p>
                         <div class="page-scroll">
                             <a href="#about" class="btn btn-circle">
@@ -79,7 +79,8 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Nick Liu</h2>
-                <p>I am a senior at the University of Pennsylvania. I've been having trouble remembering my days recently, so I decided to create a place to record my thoughts, experiences, and stories.</p>
+                <p>I am a senior at the University of Pennsylvania.</p>
+                <p>With everything moving so quickly, I'm having trouble remember my days, so this is a place to record my thoughts, experiences, and stories.</p>
             </div>
         </div>
     </section>
@@ -88,9 +89,9 @@
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Download Grayscale</h2>
-                    <p>You can download Grayscale for free on the download page at Start Bootstrap. You can also get the source code directly from GitHub if you prefer. Additionally, Grayscale is the first Start Bootstrap theme to come with a LESS file for easy color customization!</p>
-                    <a href="http://startbootstrap.com/grayscale" class="btn btn-default btn-lg">Visit Download Page</a>
+                    <h2>Welcome to My Life</h2>
+                    <p>For the time being, this remains my personal journal. Please let me know if you would like access.</p>
+                    <a href="http://startbootstrap.com/grayscale" class="btn btn-default btn-lg">Login</a>
                 </div>
             </div>
         </div>
@@ -99,9 +100,9 @@
     <section id="contact" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p>feedback@startbootstrap.com</p>
+                <h2>Contact Me</h2>
+                <p>Feel free to email me regarding access to my site.</p>
+                <p>nicksnarrative@gmail.com</p>
                 <ul class="list-inline banner-social-buttons">
                     <li><a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                     </li>
