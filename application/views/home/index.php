@@ -38,8 +38,8 @@
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                 <ul class="nav navbar-nav">
                     <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
+                    <li class="page-scroll">
+                        <a href="#page-top">Home</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">About</a>
