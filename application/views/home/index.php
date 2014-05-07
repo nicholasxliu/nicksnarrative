@@ -124,6 +124,8 @@
         </div>
     </section>
 
+    <div id="bottom"></div>
+
     <!--
     <div id="map"></div>
     -->
