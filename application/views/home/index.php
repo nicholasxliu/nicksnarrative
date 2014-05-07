@@ -45,7 +45,7 @@
                         <a href="#about">About</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#download">Download</a>
+                        <a href="#login">Login</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
@@ -81,12 +81,17 @@
                 <h2>Nick Liu</h2>
                 <p>I am a senior at the University of Pennsylvania.</p>
                 <p>With everything moving so quickly, I'm having trouble remember my days, so this is a place to record my thoughts, experiences, and stories.</p>
+                <div class="page-scroll">
+                    <a href="#login" class="btn btn-circle">
+                        <i class="fa fa-angle-double-down animated"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
 
-    <section id="download" class="content-section text-center">
-        <div class="download-section">
+    <section id="login" class="content-section text-center">
+        <div class="login-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Welcome to My Life</h2>
