@@ -81,13 +81,13 @@
                 <h2>Nick Liu</h2>
                 <p>I am a senior at the University of Pennsylvania.</p>
                 <p>With everything moving so quickly, I'm having trouble remember my days, so this is a place to record my thoughts, experiences, and stories.</p>
-                <!--
+                
                 <div class="page-scroll">
                     <a href="#login" class="btn btn-circle">
                         <i class="fa fa-angle-double-down animated"></i>
                     </a>
                 </div>
-            -->
+            
             </div>
         </div>
     </section>
@@ -124,7 +124,9 @@
         </div>
     </section>
 
+    <!--
     <div id="map"></div>
+    -->
 
     <!--Core JavaScript Files -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
