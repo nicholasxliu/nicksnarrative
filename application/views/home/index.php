@@ -98,7 +98,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Welcome to My Life</h2>
                     <p>For the time being, this remains my personal journal. Please let me know if you would like access.</p>
-                    <a href="">Login</a>
+                    <a href="" class="btn btn-default btn-lg">Login</a>
                 </div>
             </div>
         </div>
