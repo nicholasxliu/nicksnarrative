@@ -80,7 +80,7 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Nick Liu</h2>
                 <p>I am a senior at the University of Pennsylvania.</p>
-                <p>With everything moving so quickly, I'm having trouble remember my days, so this is a place to record my thoughts, experiences, and stories.</p>
+                <p>With everything moving so quickly, I'm having trouble remembering my days, so this is a place to record my thoughts, experiences, and stories.</p>
                 <!--
                 <div class="page-scroll">
                     <a href="#login" class="btn btn-circle">
