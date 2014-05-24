@@ -97,7 +97,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Welcome to My Life</h2>
                     <p>For the time being, this remains my personal journal. Please let me know if you would like access.</p>
-                    <a href="login-box" class="btn btn-default btn-lg">Login</a>
+                    <a href="#login-box" class="btn btn-default btn-lg">Login</a>
                 </div>
             </div>
         </div>
@@ -110,18 +110,18 @@
                         <span>Username or email</span>
                         <input id="username" name="username" value="" type="text" autocomplete="on" placeholder="Username">
                     </label>
-                    
+
                     <label class="password">
                         <span>Password</span>
                         <input id="password" name="password" value="" type="password" placeholder="Password">
                     </label>
-                    
+
                     <button class="submit button" type="button">Sign in</button>
-                    
+
                     <p>
                         <a class="forgot" href="#">Forgot your password?</a>
                     </p>
-                    
+
                 </fieldset>
             </form>
         </div>
