@@ -156,7 +156,7 @@ form.signin input::-webkit-input-placeholder { color:#bbb; text-shadow:0 0 2px #
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-	$('.btn-default').click(function() {
+	$("a.btn-default name").click(function() {
 		
 		// Getting the variable's value from a link 
 		var loginBox = $(this).attr('href');
@@ -199,7 +199,7 @@ $(document).ready(function() {
 		<div class="post">
     	<h2>Your Login or Sign In Box</h2>
         	<div class="btn-sign">
-				<a href="#login-box" class="btn-default">Login / Sign In</a>
+				<a href="#login-box" class="btn-default name">Login / Sign In</a>
         	</div>
 		</div>
         
