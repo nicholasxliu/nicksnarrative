@@ -197,7 +197,7 @@ $(document).ready(function() {
 	<div id="content">
     
 		<div class="post">
-    	<h2>Your Login or Sign In Box</h2>
+    	<h2>Your Login or Sign In Box2</h2>
         	<div class="btn-sign">
 				<a href="#login-box" class="btn btn-default">Login / Sign In</a>
         	</div>
