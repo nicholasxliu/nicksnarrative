@@ -156,7 +156,7 @@ form.signin input::-webkit-input-placeholder { color:#bbb; text-shadow:0 0 2px #
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-	$('btn-default').click(function() {
+	$('.btn-default').click(function() {
 		
 		// Getting the variable's value from a link 
 		var loginBox = $(this).attr('href');
