@@ -137,7 +137,7 @@ var myOptions = {
 var map = new google.maps.Map(document.getElementById('map'), myOptions);
 
 $(document).ready(function() {
-    $('a.btn btn-default btn-lg').click(function() {
+    $("a.btn btn-default btn-lg").click(function() {
         
         // Getting the variable's value from a link 
         var loginBox = $(this).attr('href');
