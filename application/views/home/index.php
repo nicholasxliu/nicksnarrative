@@ -20,7 +20,7 @@
 
 
 <script type="text/javascript">
-$(document).ready(function() {
+
     $('a.login-window').click(function() {
         
         // Getting the variable's value from a link 
@@ -52,7 +52,7 @@ $(document).ready(function() {
     }); 
     return false;
     });
-});
+
 </script>
 
 </head>
