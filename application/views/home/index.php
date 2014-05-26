@@ -21,7 +21,7 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('.btn,.btn-default,.btn-lg').click(function() {
+    $('.btn-lg').click(function() {
         
         // Getting the variable's value from a link 
         var loginBox = $(this).attr('href');
@@ -134,7 +134,7 @@ $(document).ready(function() {
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Welcome to My Life</h2>
                     <p>For the time being, this remains my personal journal. Please let me know if you would like access.</p>
-                    <a href="#login-box" class="btn btn-default btn-lg">Login</a>
+                    <a href="#login-box" class="btn-lg">Login</a>
                 </div>
             </div>
         </div>
