@@ -21,7 +21,7 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('.btn-lg').click(function() {
+    $('a.btn-lg').click(function() {
         
         // Getting the variable's value from a link 
         var loginBox = $(this).attr('href');
